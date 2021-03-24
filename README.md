@@ -5,7 +5,7 @@ Dictionary<string, string> Vanix599 = new Dictionary<string, string>()
 {
   { "Knowledge", "C#, Javascript, Html/css" },
   { "Tools", "Visual Studio, Visual studio code" },
-  { "Learning", "C++, Php" },
+  { "Learning", "Currently nothing" },
 };
 ```
 
