@@ -14,7 +14,7 @@
 <a href="https://twitter.com/devvanix" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="devvanix" height="30" width="40" /></a>
 <a href="https://myanimelist.net/profile/Vanix599" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" alt="devvanix" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/ny2m6aih664wgmvr6hnejoxo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
-<a href="https://discord.gg/9xZU6tuJtS" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
+<a href="https://discord.gg/bhvwMdQ5Su" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
