@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **C#,javascript**
 
+- 🌱 What I want to learn **Php, Python, Java, mySql**
+
 - 📫 How to reach me **Vanix3339@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
