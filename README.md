@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SpotifyX](https://github.com/Vanix599/SpotifyX)
 
-- 💬 Ask me about **C#,javascript**
+- 💬 Ask me about **C#**
 
 - 🌱 What I want to learn **Php, Python, Java, mySql**
 
