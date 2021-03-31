@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **C#**
 
-- 🌱 What I want to learn **Php, Python, Java, mySql**
+- 🌱 What I want to learn **Php, Python, Java, MySql, Vue**
 
 - 📫 How to reach me **Vanix3339@gmail.com**
 
