@@ -7,7 +7,7 @@
 
 - 🌱 What I want to learn **Php, Python, Java, MySql, Vue**
 
-- 📫 How to reach me **Vanix3339@gmail.com**
+- 📫 How to reach me **v@vanix.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
