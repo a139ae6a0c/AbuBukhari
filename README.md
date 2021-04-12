@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vanix</h1>
 <h3 align="center">Currently focused to become a backend developer.</h3>
 
-- 🔭 I’m currently working on [SpotifyX](https://github.com/Vanix599/SpotifyX), [Auth Bypasser](https://github.com/Vanix599/Auth-Bypasser)
+- 🔭 I’m currently working on [SpotifyX](https://github.com/Vanix599/SpotifyX), [Auth Bypasser](https://github.com/Vanix599/Auth-Bypasser), [aurxra.com (Cheat/Reverse forum)]
 
 - 💬 Ask me about **C#**
 
