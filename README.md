@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vanix</h1>
 <h3 align="center">Currently focused to become a backend developer.</h3>
 
-- 🔭 I’m currently working on [Auth Bypasser](https://github.com/Vanix599/Auth-Bypasser) 
+- 🔭 I’m currently working on [Nothing](https://github.com/Vanix599) 
 
 - 💬 Ask me about **C#**
 
@@ -11,8 +11,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/devvanix" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" alt="devvanix" height="30" width="40" /></a>
-<a href="https://myanimelist.net/profile/Vanix599" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" alt="devvanix" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/ny2m6aih664wgmvr6hnejoxo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
 <a href="https://discord.gg/bhvwMdQ5Su" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
 </p>
