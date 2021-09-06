@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://open.spotify.com/user/ny2m6aih664wgmvr6hnejoxo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
-<a href="https://discord.gg/bhvwMdQ5Su" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
+<a href="https://discords.com/bio/p/vanixkurakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
