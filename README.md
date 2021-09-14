@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vanix</h1>
-<h3 align="center">Currently focused to become a backend developer.</h3>
+<h3 align="center">Currently focused to become a developer.</h3>
 
 - 🔭 I’m currently working on [Sapphire](https://github.com/Vanix-k3rnel?tab=projects) 
 
