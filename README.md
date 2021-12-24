@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Aurxra](https://skrr.aurxra.xyz/) 
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **C#, Php, Mysql**
 
-- 🌱 What I want to learn **Php, Python, Java, MySql, Vue**
+- 🌱 What I want to learn **Python, Java, Vue**
 
 - 📫 How to reach me **v@vanix.site**
 
