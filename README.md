@@ -1,17 +1,16 @@
-<h1 align="center">Yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vanix</h1>
-<h3 align="center">Currently focused to become a developer.</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vanix</h1>
+<h3 align="center">Doing nothing.</h3>
 
-- 🔭 I’m currently working on [Aurxra](https://skrr.aurxra.xyz/) 
+- 🔭 I’m currently working on ??
 
 - 💬 Ask me about **C#, Php, Mysql**
 
-- 🌱 What I want to learn **Python, Java, Vue**
+- 🌱 What I want to learn **Vue**
 
 - 📫 How to reach me **v@vanix.site**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://open.spotify.com/user/ny2m6aih664wgmvr6hnejoxo3" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
 <a href="https://discords.com/bio/p/vanixkurakku" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="9xZU6tuJtS" height="30" width="40" /></a>
 </p>
 
