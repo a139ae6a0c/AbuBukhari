@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vanix</h1>
-<h3 align="center">Doing nothing.</h3>
+<h3 align="center">Currently Learning or coding.</h3>
 
-- 🔭 I’m currently working on ??
+- 🔭 I’m currently working on **Salat**
 
 - 💬 Ask me about **C#, Php, Mysql**
 
-- 🌱 What I want to learn **Vue**
+- 🌱 What I am doing **Studies**
 
-- 📫 How to reach me **v@vanix.site**
+- 📫 How to reach me **مؤمن#6430 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
