@@ -1,13 +1,14 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm مؤمن</h1>
-<h3 align="center">Currently Learning or coding.</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm عبد الرحمان
+</h1>
+<h3 align="center">Currently Studying.</h3>
 
-- 🔭 I’m currently working on **?**
+- 🔭 I’m currently working on **Al-Halaqah**
 
 - 💬 Ask me about **C#, Php, Mysql**
 
 - 🌱 What I am doing **Studies**
 
-- 📫 How to reach me **مؤمن#6430**
+- 📫 How to reach me **مؤمن#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
