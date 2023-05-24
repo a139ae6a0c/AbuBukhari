@@ -8,7 +8,7 @@
 
 - 🌱 What I am doing **Studies**
 
-- 📫 How to reach me **Abū Bukhārī#0001**
+- 📫 How to reach me **أبو بخاري#0001**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
